@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sanu Raj 👋
 
-<!--
-**sanuraj1254/sanuraj1254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student in Artificial Intelligence & Data Science
 
-Here are some ideas to get you started:
+💻 Currently learning Python, C Programming, and NumPy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Improving my programming fundamentals, problem-solving skills, and project development.
+
+🎯 My goal is to build practical projects and prepare for campus placements while exploring AI and Data Science.
+
+## 🛠️ Skills I'm Learning
+
+- Python
+- C Programming
+- NumPy
+- Git and GitHub
+
+## 📂 My Repositories
+
+- [Python Practice](https://github.com/sanuraj1254/Python)
+- [C Programming](https://github.com/sanuraj1254/C-Programming)
+- [NumPy Practice](https://github.com/sanuraj1254/numpy-practice)
+
+## 📈 Current Focus
+
+- Practising Python and NumPy
+- Building beginner-friendly projects
+- Strengthening problem-solving skills
+
+---
+
+Thanks for visiting my profile! 😊
