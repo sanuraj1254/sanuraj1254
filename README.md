@@ -2,7 +2,7 @@
 
 🎓 BTech Student in Artificial Intelligence & Data Science
 
-💻 Currently learning Python, C Programming, and NumPy.
+💻 Currently learning Python and NumPy.
 
 🌱 Improving my programming fundamentals, problem-solving skills, and project development.
 
