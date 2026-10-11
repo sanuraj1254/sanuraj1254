@@ -18,8 +18,8 @@
 ## 📂 My Repositories
 
 - [Python Practice](https://github.com/sanuraj1254/Python)
-- [C Programming](https://github.com/sanuraj1254/C-Programming)
 - [NumPy](https://github.com/sanuraj1254/numpy-practice)
+- [C Programming](https://github.com/sanuraj1254/C-Programming)
 
 ## 📈 Current Focus
 
