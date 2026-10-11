@@ -19,7 +19,7 @@
 
 - [Python Practice](https://github.com/sanuraj1254/Python)
 - [C Programming](https://github.com/sanuraj1254/C-Programming)
-- [NumPy Practice](https://github.com/sanuraj1254/numpy-practice)
+- [NumPy](https://github.com/sanuraj1254/numpy-practice)
 
 ## 📈 Current Focus
 
